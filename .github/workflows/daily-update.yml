@@ -13,8 +13,8 @@ permissions:
 
 # Make prefixes for this repo
 env:
-  FILTER_ARGS: --filter-prefix=Make-
-  SIGNAL_PREFIX: MAKE
+  FILTER_ARGS: --filter-prefix=GAC-
+  SIGNAL_PREFIX: GAC
 
 concurrency:
   group: "data-update"
